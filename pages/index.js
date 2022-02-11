@@ -10,6 +10,7 @@ export default function Home() {
         <title>Mary Chukwuma Portfolio | Home</title>
         <meta name="description" content="Mary Chukwuma Portfolio" />
       </Head>
+
     </div>
   )
 }
