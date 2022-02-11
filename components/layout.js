@@ -8,6 +8,7 @@ const Layout = ({children}) => {
     <div>
      
     <Navbar />
+    <div></div>
     <Image src ='/portfolio_background.jpg' width={1820} height ={760} />
         {children}
     <Footer />
